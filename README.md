@@ -1,39 +1,74 @@
-Hi, I'm MD. Mahmudul Hasan 👋
+# Hi, I'm MD. Mahmud Hasan 👋
 
-### English Undergraduate | Aspiring Business & Data Analyst
+### Business & Data Analytics | Python • SQL • Excel
 
-I'm an English undergraduate at Green University of Bangladesh, building practical skills in business analytics, data, and technology.
+I'm an English undergraduate at Green University of Bangladesh with a growing focus on **business analytics, data, and technology**.
 
-I'm currently developing my skills in:
+I learn by building practical projects—from business dashboards and data analysis to full-stack web applications.
 
-- 📊 Excel & Business Analytics
-- 🐍 Python & Data Analysis
-- 🗄️ SQL
-- 🌐 Web Development with Flask
+---
 
-### 🚀 What I'm Working On
+## 🔎 What I Do
 
-- Building practical data analysis projects
-- Developing business dashboards
-- Learning SQL for data analysis
-- Using Python to work with and analyze data
-- Building and improving real-world web projects
+* 📊 Analyze and visualize business data
+* 📈 Build dashboards and turn data into actionable insights
+* 🗄️ Use SQL to explore and analyze datasets
+* 🐍 Use Python and Pandas for data analysis and automation
+* 🌐 Build responsive web applications
 
-### 🛠️ Tools & Technologies
+---
 
-**Data & Analytics:**  
-Excel • SQL • Python • Pandas
+## 🛠️ Tech Stack
 
-**Development:**  
-HTML • CSS • Flask • Git • GitHub
+**Data & Analytics**
 
-**Productivity:**  
-Microsoft Office • Google Workspace
+`Excel` `SQL` `Python` `Pandas`
 
-### 📌 Featured Projects
+**Web Development**
 
-Coming soon — I'm currently building projects that demonstrate my skills in data analysis, business analytics, and technology.
+`Next.js` `TypeScript` `React` `Flask` `HTML` `CSS`
 
-### 📫 Connect With Me
+**Tools**
 
+`Git` `GitHub` `VS Code`
 
+---
+
+## 🚀 Featured Projects
+
+### [Knerdly](https://knerdly.vercel.app)
+
+A modern web application built with **Next.js, TypeScript, and Supabase**.
+
+### GUEC Website
+
+A production website developed for **Green University English Club** using **Next.js and TypeScript**.
+
+### Personal Portfolio
+
+A **Flask/Python** portfolio application with a database-backed architecture and dynamic content management.
+
+---
+
+## 📚 Currently Learning
+
+**Advanced Excel → SQL → Python for Data Analysis**
+
+My current goal is to combine **technical skills, analytical thinking, and business understanding** to solve practical problems with data.
+
+---
+
+## 🎯 Areas of Interest
+
+`Business Analytics` `Data Analysis` `Automation` `Technology` `Web Development`
+
+---
+
+## 🤝 Connect
+
+* 💼 [LinkedIn]()
+* 🌐 [Portfolio](www.linkedin.com/in/md-mahmudul-hasan-2bd)
+
+---
+
+> **Build. Analyze. Improve.**
