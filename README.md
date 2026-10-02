@@ -36,9 +36,4 @@ Coming soon — I'm currently building projects that demonstrate my skills in da
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn here]
-- Portfolio: [Add your portfolio here]
 
----
-
-> Learning by building, improving through practice.
